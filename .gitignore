@@ -36,3 +36,7 @@ Carthage/
 
 Argo.framework.zip
 *.xcscmblueprint
+
+# SPM
+.build
+Packages
